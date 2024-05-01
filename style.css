@@ -79,7 +79,7 @@ a {
 .product {
     flex-wrap: wrap;
     display: flex;
-    padding-right: 100px;
+    padding-right: 400px;
 }
 
 .cc {
