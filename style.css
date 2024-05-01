@@ -79,7 +79,7 @@ a {
 .product {
     flex-wrap: wrap;
     display: flex;
-    padding-right: 7px;
+    padding-right: 50px;
 }
 
 .cc {
@@ -149,7 +149,7 @@ a {
 
 footer {
     background-color: #6DA23B;
-    width: 980px;
+
     height: 250px;
 }
 
