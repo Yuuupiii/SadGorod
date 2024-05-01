@@ -1,0 +1,173 @@
+body {
+    font-family: sans-serif;
+    background-color: #DEF3C9;
+
+}
+
+.golova {
+   padding-bottom: 90px;
+   color: #214400;
+}
+
+header {
+    text-align: center;
+    background-color: #6DA23B;
+
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 90px 100px 90px 100px;
+}
+
+.nav-link:hover {
+    transition: 0.5s ease-out;
+    border-bottom: 3px groove #7abb3d;
+    padding: 6px;
+}
+
+a {
+    text-decoration: none;
+    color: #214400;
+}
+
+.mova {
+        display: block;
+}
+
+.cina {
+    color: #214400;
+}
+
+.cina:hover {
+    transition: 0.3s ease-out;
+    padding: 4px;
+    background-color: #bfdda2;    
+}
+
+.nach {
+    float: right;
+    display: flex;
+    padding-inline-start: 50px;
+}
+
+.ttt {
+    padding-left: 88px;
+}
+
+.info {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: #2C5B00;
+}
+
+.info:hover{
+    transition: 0.5s ease-out;
+    background-color: #bfdda2;
+}
+
+.catalog {
+    padding-left: 88px;
+    display: flex;
+    color: #2C5B00;
+}
+
+
+.product {
+    flex-wrap: wrap;
+    display: flex;
+    padding-right: 7px;
+}
+
+.cc {
+    text-align: center;
+    color: #2C5B00;
+}
+
+.mm {
+    text-align: center;
+    
+}
+
+.avaw {
+    float: left;
+    display: flex;
+    padding-left: 88px;
+}
+
+.textw {
+  margin: 10px;
+  margin-left: 70px;
+  padding-left: 88px;
+}
+
+.textt {
+   margin: 10px;
+  margin-left: 70px;
+    padding-left: 88px;
+}
+
+.avat {
+   display: flex;
+    float: left;
+    padding-left: 88px;
+}
+
+.map{
+    text-align: center;
+    color: #2C5B00;
+}
+
+.na {
+   margin-left: 40px;
+   margin-top: 200px;
+   margin-bottom: 0px;
+   color: #214400;
+   font-size: 30px;
+   padding-top: 120px;
+}
+
+.na:hover {
+    transition: 0.5s ease-in-out;
+    background-color: #6DA23B;
+    font-size: 40px;
+}
+
+.ceti{
+    float: right;
+      margin-right: 70px;
+      margin-top: -30px;
+      margin-bottom: 0px;
+      background-color: #6DA23B;
+}
+.comments {
+    color: #2C5B00;
+}
+
+footer {
+    background-color: #6DA23B;
+    width: 980px;
+    height: 250px;
+}
+
+.textw:hover { 
+    transition: 0.5s ease-out; 
+    background-color: #bfdda2; 
+    padding: 50px; 
+}
+
+.textt:hover { 
+    transition: 0.5s ease-out; 
+    background-color: #bfdda2; 
+    padding: 50px; 
+}
+
+p:hover {
+    transition: 0.5s ease-out; 
+    background-color: #bfdda2; 
+    padding: 50px;
+    color: #182e03;     
+}
