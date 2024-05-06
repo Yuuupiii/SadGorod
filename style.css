@@ -168,6 +168,15 @@ footer {
 p:hover {
     transition: 0.5s ease-out; 
     background-color: #bfdda2; 
-    padding: 50px;
+    padding: 20px;
     color: #182e03;     
+}
+
+.textotzi {
+    color: #2C5B00;
+}
+
+.textotzi:hover {
+    color: #0f1b03;
+        padding: 0px;
 }
