@@ -211,5 +211,5 @@ p:hover {
 .pol:hover {
     background-color: #bfdda2;
     transition: 0.5s ease-out; 
-    padding: 30px;         
+    padding: 0px;         
 }
